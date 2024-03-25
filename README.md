@@ -1,5 +1,8 @@
 # Selam! Ben Akın CENGİZ 🦅
 
+##Yeteneklerim
+---
+
 <!--
 **AkinCengiz/AkinCengiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
