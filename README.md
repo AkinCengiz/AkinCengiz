@@ -1,8 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkinCengiz&margin-w=15&margin-h=15&margin-top=30&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AkinCengiz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AkinCengiz/github-readme-stats#gh-dark-mode-only)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkinCengiz&column=6&margin-w=15&margin-h=15&margin-top=30&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkinCengiz&column=5&margin-w=15&margin-h=15&margin-top=30&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Selam! Ben Akın CENGİZ 🦅
 
