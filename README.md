@@ -5,6 +5,11 @@
 # Selam! Ben Akın CENGİZ 🦅
 
 ## Yeteneklerim
+* Nesne Yönelimli Programlama
+* Katmanlı Mimari
+* Backend
+* Frontend
+
 ---
 
 <!--
