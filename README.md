@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkinCengiz&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AkinCengiz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AkinCengiz/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AkinCengiz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AkinCengiz/github-readme-stats#gh-light-mode-only)
