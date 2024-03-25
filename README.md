@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AkinCengiz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AkinCengiz/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AkinCengiz&column=3&margin-w=15&margin-h=15&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AkinCengiz/github-readme-stats#gh-light-mode-only)
