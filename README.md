@@ -1,6 +1,6 @@
 # Selam! Ben Akın CENGİZ 🦅
 
-##Yeteneklerim
+## Yeteneklerim
 ---
 
 <!--
